@@ -1,0 +1,13 @@
+{
+  "name": "precision-guard-local",
+  "owner": {
+    "name": "Precision Guard project"
+  },
+  "plugins": [
+    {
+      "name": "precision-guard",
+      "source": "./plugins/precision-guard",
+      "description": "Evidence-based answers, explicit uncertainty, and strict scope control."
+    }
+  ]
+}

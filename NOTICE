@@ -1,0 +1,14 @@
+Precision Guard
+SPDX-License-Identifier: GPL-3.0-only
+
+This project's original code, instructions, and documentation are distributed
+under the GNU General Public License, version 3 only. See LICENSE for the terms.
+No later-version option is granted by this notice.
+
+The GPL text preserves the license selected when the public repository was created:
+https://github.com/llucasbriahn/precision-guard
+The copyright notice inside LICENSE refers to the license document itself.
+
+Claude Code, Codex, Cursor, Gemini CLI, and GitHub Copilot are names of third-party
+products. This project is independent and does not claim endorsement by their
+providers. Linked third-party documentation remains under its own terms.

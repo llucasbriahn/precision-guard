@@ -1,0 +1,7 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "precision-guard",
+  "version": "0.1.0",
+  "description": "Evidence-based answers, explicit uncertainty, and strict scope control.",
+  "license": "GPL-3.0-only"
+}
